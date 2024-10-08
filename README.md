@@ -24,4 +24,4 @@ Este projeto é uma API para gerenciamento de recados com funcionalidades comple
 
 1. Clone o repositório:
    ```bash
-   git clone git@github.com:
+   git clone [git@github.com:](https://github.com/AnalineChiodi/atividade-final-express02.git)
